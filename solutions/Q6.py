@@ -2,7 +2,7 @@
 def formula(D):
     C = 50
     H = 30
-    ans = round(float(((2*C*float(D))/H))**(1/2))100,150,180
+    ans = round(float(((2*C*float(D))/H))**(1/2))
 
 
     return ans
